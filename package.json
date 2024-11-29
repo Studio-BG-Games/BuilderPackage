@@ -1,0 +1,12 @@
+{
+  "name": "com.ngame.builderpackage",
+  "version": "1.0.2",
+  "displayName": "BuilderPackage",
+  "description": "This script adds a menu button in Unity for building the Android version of the project.\nClicking it starts the build process and displays the result: either a successful build\nwith the file size or an error if the build fails.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Nicel",
+    "email": "nicelgoog@gmail.com"
+  }
+}
